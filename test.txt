@@ -1,1 +1,1 @@
-Android Studio is the official Integrated Development Environment (IDE) for building apps across all Android devices, including phones, tablets, TVs, and wearables. It is developed by Google and is based on the powerful IntelliJ IDEA software from
+Android Studio is the official Integrated  Environment (IDE) for building apps across all Android devices, including phones, tablets, TVs, and wearables. It is developed by Google and is based on the powerful IntelliJ IDEA software from
